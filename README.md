@@ -1,3 +1,9 @@
+-    Neste projeto, desenvolvi uma aplicação ReactJS de interface para um smart contract básico. Este contrato inteligente foi anteriormente publicado na blockchain da Binance (BSC), mas é compatível com qualquer blockchain que suporte Ethereum.
+
+-    In this project, I created a simple ReactJS application to serve as an interface for a basic smart contract. This smart contract had been previously deployed on the Binance blockchain (BSC), but it functions similarly on any Ethereum-compatible blockchain.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
